@@ -162,10 +162,16 @@ body {
   overflow: hidden;
 }
 
+.resume .resume_right .resume_work ul p{
+  text-align: justify;
+}
+
 .resume .resume_right ul li {
   position: relative;
 }
-
+.resume .resume_right .resume_about p{
+  text-align: justify;
+}
 .resume .resume_right ul li .date {
   font-size: 16px;
   font-weight: 500;
