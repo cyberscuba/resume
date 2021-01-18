@@ -268,21 +268,21 @@ body {
   display: none;
 }
 /* unvisited link */
-.resume_item .resume_social p a:link {
+.resume_item .resume_social a:link {
   color: #b1eaff;
 }
 
 /* visited link */
-.resume_item .resume_social p a:visited {
+.resume_item .resume_social a:visited {
   color: #fff;
 }
 
 /* mouse over link */
-.resume_item .resume_social p a:hover {
+.resume_item .resume_social a:hover {
   color: #0bb5f4;
 }
 
 /* selected link */
-.resume_item .resume_social p a:active {
+.resume_item .resume_social a:active {
   color: #009fd9;
 }
