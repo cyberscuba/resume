@@ -34,8 +34,9 @@ body {
 }
 
 .resume .resume_left {
-  width: 280px;
+  width: 301px;
   background:#284b58;
+  margin-left: 25px;
 }
 
 .resume .resume_left .resume_profile {
@@ -147,13 +148,18 @@ body {
 }
 
 .resume .resume_right {
-  width: 520px;
+  width: 100%;
   background: #fff;
   padding: 25px;
+  margin-right: 25px
 }
 
 .resume .resume_right .bold {
   color: #244652;
+}
+
+.resume_item .resume_work{
+  margin: 0 50px 0 50px;
 }
 
 .resume .resume_right .resume_work ul,
@@ -171,6 +177,7 @@ body {
 }
 .resume .resume_right .resume_about p{
   text-align: justify;
+  margin: 0 50px 0 50px;
 }
 .resume .resume_right ul li .date {
   font-size: 16px;
