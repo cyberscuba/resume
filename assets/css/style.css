@@ -267,3 +267,22 @@ body {
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
 }
+/* unvisited link */
+a:link {
+  color: #b1eaff;
+}
+
+/* visited link */
+a:visited {
+  color: #284b58;
+}
+
+/* mouse over link */
+a:hover {
+  color: #0bb5f4;
+}
+
+/* selected link */
+a:active {
+  color: #009fd9;
+}
