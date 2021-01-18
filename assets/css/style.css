@@ -118,7 +118,7 @@ body {
 }
 
 .resume .resume_left .resume_skills ul li .skill_name {
-  width: 25%;
+  width: 40%;
 }
 
 .resume .resume_left .resume_skills ul li .skill_progress {
@@ -208,7 +208,9 @@ body {
   height: 70px;
   background: #0bb5f4;
 }
-
+.resume .resume_right .resume_work ul li:after{
+  height: 115px;
+}
 .resume .resume_right .resume_hobby ul {
   display: flex;
   justify-content: space-between;
