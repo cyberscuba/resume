@@ -70,7 +70,7 @@ body {
 .resume .resume_item {
   padding: 25px 0;
   border-bottom: 2px solid #b1eaff;
-  margin: 0 50px 0 50px;
+  margin: 0 50px 0 25px;
 }
 
 .resume .resume_left .resume_item:last-child,
