@@ -27,10 +27,10 @@ body {
 }
 
 .resume {
-  width: 800px;
+  width: 100%;
   height: auto;
   display: flex;
-  margin: 50px auto;
+  margin: 25px auto;
 }
 
 .resume .resume_left {
@@ -70,6 +70,7 @@ body {
 .resume .resume_item {
   padding: 25px 0;
   border-bottom: 2px solid #b1eaff;
+  margin: 0 50px 0 50px;
 }
 
 .resume .resume_left .resume_item:last-child,
@@ -177,7 +178,7 @@ body {
 }
 .resume .resume_right .resume_about p{
   text-align: justify;
-  margin: 0 50px 0 50px;
+  margin: 0 10px 0 10px;
 }
 .resume .resume_right ul li .date {
   font-size: 16px;
@@ -220,7 +221,7 @@ body {
 }
 .resume .resume_right .resume_hobby ul {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .resume .resume_right .resume_hobby ul li {
