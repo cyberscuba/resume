@@ -68,20 +68,22 @@ body {
 }
 
 .resume_item.resume_about {
-    margin: 0 50px 0 50px;
+    margin: 0 5% 0 5%;
 }
 
 .resume_item.resume_work {
-    margin: 0 50px 0 50px;
+    margin: 0 5% 0 5%;
 }
 
 .resume_item.resume_education {
-    margin: 0 50px 0 50px;
+    margin: 0 5% 0 5%;
 }
 .resume_item.resume_hobby {
-    margin: 0 50px 0 50px;
+    margin: 0 5% 0 5%;
 }
-
+p.content {
+    margin: 0 5% 0 5%;
+}
 
 
 
@@ -177,12 +179,12 @@ body {
 }
 
 .resume_item .resume_work{
-  margin: 0 50px 0 50px;
+  margin: 0 5% 0 5%;
 }
 
 .resume .resume_right .resume_work ul,
 .resume .resume_right .resume_education ul {
-  padding-left: 40px;
+  padding-left: 4%;
   overflow: hidden;
 }
 
@@ -195,7 +197,7 @@ body {
 }
 .resume .resume_right .resume_about p{
   text-align: justify;
-  margin: 0 10px 0 10px;
+  margin: 0 1% 0 1%;
 }
 .resume .resume_right ul li .date {
   font-size: 16px;
